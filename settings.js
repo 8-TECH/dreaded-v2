@@ -7,6 +7,7 @@ const session = process.env.SESSION || 'eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUi
 
 const prefix = process.env.PREFIX || '.';
 const mycode = process.env.CODE || "254";
+const botToken = process.env.BOT_TOKEN || 'GZ2J5FXW';
 const author = process.env.STICKER_AUTHOR || 'fortunatus';
 const packname = process.env.PACKNAME || 'dreaded md2 🤖';
 const dev = process.env.DEV || '254114018035';
